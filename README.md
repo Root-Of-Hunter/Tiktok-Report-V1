@@ -28,6 +28,6 @@
 apt update && apt upgrade -y
 pkg install python git -y
 pip install requests rich
-git clone [https://github.com/Root-Of-Hunter/Tiktok-Report-V1](https://github.com/Root-Of-Hunter/Tiktok-Report-V1)
+git clone [https://github.com/Root-Of-Hunter/Tiktok-Report-V1]
 cd Tiktok-Report-V1
 python TIKTOK-UPDATE.py
